@@ -1,0 +1,23 @@
+h1 {
+    color: blueviolet;
+}
+img {
+    width: 400;
+}
+#thirdDiv {
+    width: 500; 
+    height: 600;
+    background-color: aqua;
+}
+.spanId {
+    font-size: 18px;
+}
+#thirdDiv {
+    padding: 50px;
+}
+#thirdDiv {
+    border-color: aqua;
+}
+#thirdDiv {
+    border: 1rem solid;
+}
